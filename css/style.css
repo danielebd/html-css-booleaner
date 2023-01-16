@@ -9,8 +9,25 @@ header {
 
 #sottotitolo {
     opacity: 0.5;
+    font-family: ;
+}
+
+#a {
+    font-size: small;
 }
 
 #TheBooleaner {
     color: #4ea0ff;
+    opacity: 1;
+}
+
+#Photo{
+    font-size: smaller;
+}
+
+#section1 {
+    margin-top: 20px;
+}
+mark {
+    background-color: yellow;
 }
