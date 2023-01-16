@@ -1,0 +1,16 @@
+header {
+    background-color: #4ea0ff;
+    height: 190px;
+    background-image: url("../img/pattern.png");
+    background-image: url("../img/logo.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#sottotitolo {
+    opacity: 0.5;
+}
+
+#TheBooleaner {
+    color: #4ea0ff;
+}
